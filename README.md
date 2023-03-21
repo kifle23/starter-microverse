@@ -17,16 +17,8 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
-  <summary>HTML</summary>
-  
-</details>
-
-<details>
-  <summary>CSS</summary>
-  
-</details>
-
+<summary>HTML</summary>
+<summary>CSS</summary>
 <details>
 <summary>Linters</summary>
   <ul>
