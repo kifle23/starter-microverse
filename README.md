@@ -1,22 +1,12 @@
 <a name="readme-top"></a>
 
-<div align="center">
-  👋 Hi
-  <br/>
-
-  <h3><b>I'm Kifle</b></h3>
-
-</div>
-
-
 # 📖 [Hello Microverse project] <a name="about-project"></a>
 
-**[Hello Microverse project]** is my first project at Microverse which is done in the partial fulfillment of concepts like git and github, css lint, and html lint.
+**[Hello Microverse project]** is a first project at Microverse which is done in the partial fulfillment of concepts like git and github, css lint, and html lint.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 <details>
   <summary>HTML</summary>
   
@@ -36,21 +26,51 @@
   </ul>
 </details>
 
-### Key Features <a name="key-features"></a>
-
-- **[Code formatting according to Microverse guideline using linters]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link] Comming soon....
+- [Live Demo Link](https://github.com/kifle23/Hello-Microverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+ 
+ nodejs 
+
+### Setup
+
+Clone this repository to your desired folder:
+
+### Usage
+
+To run the project, go live from your editor
+
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/kifle23/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kifle-haile-5a613761/)
+
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project give it a star.
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
