@@ -35,6 +35,14 @@
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
+<ul dir="auto">
+<li>Installation of Git</li>
+<li>Installation of NPM</li>
+<li>A working browser</li>
+<li>Internet connection</li>
+<li>A code editor like Visual Studio Code</li>
+<li>Installation of Live Server plugging in Visual Studio Code</li>
+</ul>
 
 To get a local copy up and running, follow these steps.
 
