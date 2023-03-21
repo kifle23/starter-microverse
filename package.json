@@ -1,14 +1,4 @@
 {
-  "name": "hello-microverse",
-  "version": "1.0.0",
-  "description": "<h1 align=\"center\">Hi 👋, I'm Kifle</h1>\r <h3 align=\"center\">A passionate developer from Ethiopia</h3>",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "hint": "^7.1.5",
     "stylelint": "^13.13.1",
