@@ -17,12 +17,20 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<summary>HTML</summary>
-<summary>CSS</summary>
+<details>
+  <summary>HTML</summary>
+  
+</details>
+
+<details>
+  <summary>CSS</summary>
+  
+</details>
+
 <details>
 <summary>Linters</summary>
   <ul>
-    <li>Lighthouse></li>
+    <li>Lighthouse</li>
     <li>Webhint</li>
     <li>Stylelint</li>
   </ul>
