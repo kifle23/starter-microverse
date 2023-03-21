@@ -1,12 +1,30 @@
-<a name="readme-top"></a>
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
 
 # 📖 [Hello Microverse project] <a name="about-project"></a>
 
-**[Hello Microverse project]** is a first project at Microverse which is done in the partial fulfillment of concepts like git and github, css lint, and html lint.
+**[Hello Microverse project]** is a project which is done in the partial fulfillment of concepts like git,github, css and html lint.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+
 <details>
   <summary>HTML</summary>
   
@@ -25,8 +43,6 @@
     <li>Stylelint</li>
   </ul>
 </details>
-
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://github.com/kifle23/Hello-Microverse)
@@ -56,31 +72,64 @@ To get a local copy up and running, follow these steps.
 
 Clone this repository to your desired folder:
 
+  -cd my-folder
+  -git clone git@github.com:kifle23/Hello-microverse.git
+
+### Install
+
+Install this project with:
+
+-[coming soon]
+
 ### Usage
 
-To run the project, go live from your editor
+To run the project, execute the following command:
+
+-[coming soon]
+
+### Run tests
+
+To run tests, run the following command:
+-[coming soon]
+
+
+### Deployment
+
+You can deploy this project using:
+
+-[coming soon]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+
+👤 **Kifle Haile**
 
 - GitHub: [@githubhandle](https://github.com/kifle23/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kifle-haile-5a613761/)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/kifle23/Hello-Microverse/issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project give it a star.
+If you like this project please give it some ⭐️s
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
