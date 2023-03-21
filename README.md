@@ -26,6 +26,11 @@
   </ul>
 </details>
 
+## Key Features
+
+### [Visual Studio Code]: This is environment in which the application is built.
+### [HTML] : This is a Markup Language use to achieve the project
+### [Linters] : This is a tool used in the project to avoide coding error and professionality
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -68,6 +73,12 @@ To run the project, go live from your editor
 - GitHub: [@githubhandle](https://github.com/kifle23/)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/kifle-haile-5a613761/)
 
+
+# 🔭 Future Features
+
+###  A button that pop up a message for the user
+### A modal page
+### The use will be able to type in the text of their choice
 
 
 ## 🤝 Contributing <a name="contributing"></a>
