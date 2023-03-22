@@ -112,6 +112,17 @@ You can deploy this project using:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ ] **[A button that pop up a message for the user]**
+- [ ] **[A modal page]**
+- [ ] **[The user will be able to type in the text of their choice]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -128,8 +139,16 @@ If you like this project please give it some ⭐️s
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank @microverseinc/linters-config/html-css/ for supplying the linter configuration files
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
