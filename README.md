@@ -27,7 +27,6 @@
 
 <details>
   <summary>HTML</summary>
-  
 </details>
 
 <details>
